@@ -214,3 +214,29 @@ FROM customer_data_new_batch
 -- COMMAND ----------
 
 -- TODO
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC 
+-- MAGIC ## Exercise 3
+-- MAGIC 
+-- MAGIC Run OPTIMIZE on customer_data_delta table. <br>
+-- MAGIC **Reference:** https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/optimize?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fazure-databricks%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fbread%2Ftoc.json
+
+-- COMMAND ----------
+
+-- TODO
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC 
+-- MAGIC ## Exercise 4
+-- MAGIC 
+-- MAGIC Run OPTIMIZE with ZORDER on customer_data_delta table. <br>
+-- MAGIC **Reference:** https://docs.microsoft.com/en-us/azure/databricks/spark/latest/spark-sql/language-manual/optimize?toc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fazure-databricks%2Ftoc.json&bc=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fbread%2Ftoc.json
+
+-- COMMAND ----------
+
+-- TODO
